@@ -1,5 +1,6 @@
 ;;; gauche-mode.el --- Programming language gauche browsing source tools.
 
+;; License: GPLv3
 
 ;;; Commentary:
 ;; 
